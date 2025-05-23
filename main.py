@@ -35,4 +35,4 @@ for file in os.listdir('cogs'):
 		except Exception as error:
 			print(str(error))
 
-client.run('bot token here')
+client.run('MTExNTkxODIxMjUzNDY0MDc0MA.GMd_b0.pEx2aSHnKEorJYANrURzv2KBWnPkYKTFtjtF3k')
