@@ -35,4 +35,4 @@ for file in os.listdir('cogs'):
 		except Exception as error:
 			print(str(error))
 
-client.run('MTExNTkxODIxMjUzNDY0MDc0MA.GMd_b0.pEx2aSHnKEorJYANrURzv2KBWnPkYKTFtjtF3k')
+client.run('MTExNTkxODIxMjUzNDY0MDc0MA.GhuJPW.Dvk4yRPEY8I4LTKZA6NhjG5DjLajqfevz7Gp2A')
